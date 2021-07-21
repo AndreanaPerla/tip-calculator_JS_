@@ -1,4 +1,4 @@
-# Tip calculator
+#Tip calculator
 
 Simple tip calculator from Frontend Mentor challenge
 
