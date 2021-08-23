@@ -255,6 +255,8 @@ main {
   }
 }
 
+/*tablet*/
+
 @media only screen and (max-width: 800px) {
   body {
     overflow: scroll;
@@ -283,6 +285,8 @@ main {
     bottom: 23%;
   }
 }
+
+/*mobile*/
 
 @media only screen and (max-width: 414px) {
   body {
